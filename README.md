@@ -9,6 +9,6 @@
 
 **Pipelines Created:**
 - Data Collection
-      - Preprocessing
-3. Feature Selection
-4. Model Creation
+- Preprocessing
+- Feature Selection
+- Model Creation
