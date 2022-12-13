@@ -8,7 +8,7 @@
 **Technology used:** TensorFlow, Python, Librosa, Pandas.
 
 **Pipelines Created:**
-      - Data Collection
+- Data Collection
       - Preprocessing
 3. Feature Selection
 4. Model Creation
